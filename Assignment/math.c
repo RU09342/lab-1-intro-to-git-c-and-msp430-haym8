@@ -14,7 +14,7 @@ int math(int num1, int num2, char Operator)
 			return num1 * num2;
 			break;
 		case '/':
-			return num1 / num2; /*Check this*/
+			return num1 / num2;
 			break;
 		case '%':
 			return num1 % num2;

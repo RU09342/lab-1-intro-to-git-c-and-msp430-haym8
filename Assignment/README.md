@@ -49,5 +49,4 @@ There will be an error if there is division by zero, as that would return an und
 
 ## Tasks
 * [x] Implement basic math functions
-* [] Make sure it implements over UART
-* [] Test on MSP430
+* [x] Make sure UART implementation works on MSP430

@@ -39,7 +39,7 @@ math(32, 8, '/');
 ### Modulus
 This function takes two numbers and returns the remainder. The operator is "%". 
 #### Example (12 % 5)
-```
+```c
 math(12, 5, '%');
 ```
 
